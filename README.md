@@ -1,2 +1,2 @@
 # Portugol VisualG
- Exércicios de Portugol(VisualG) feitos no VisualCODE
+ Exercícios de Portugol(VisualG) feitos no VSCODE
